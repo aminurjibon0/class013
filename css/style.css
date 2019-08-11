@@ -1,0 +1,21 @@
+header, #hero, #body, #bar, footer {
+    background: rgba( 43, 211, 152, 1 );
+    margin-bottom: 10px;
+    padding: 5px 0;
+}
+.box {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 8px 0;
+    text-align: center;
+    color: #fff;
+    height: 60px;
+    background: linear-gradient(to right, rgba( 43, 169, 211, 0.861 ), rgba( 29, 119, 149, 0.861 ));
+    margin-bottom: 5px;
+}
+.red {
+    background: linear-gradient(to right, rgba( 208, 102, 102, 1 ), #e33535)
+}
+.green {
+    background: linear-gradient(to right, #109226, #25bf3f);
+}
